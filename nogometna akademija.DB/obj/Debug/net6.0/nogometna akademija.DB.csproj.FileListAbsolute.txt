@@ -1,0 +1,5 @@
+C:\Users\Inženjer\Desktop\praktikum\nogometna akademija\nogometna akademija.DB\obj\Debug\net6.0\nogometna akademija.DB.csproj.AssemblyReference.cache
+C:\Users\Inženjer\Desktop\praktikum\nogometna akademija\nogometna akademija.DB\obj\Debug\net6.0\nogometna akademija.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inženjer\Desktop\praktikum\nogometna akademija\nogometna akademija.DB\obj\Debug\net6.0\nogometna akademija.DB.AssemblyInfoInputs.cache
+C:\Users\Inženjer\Desktop\praktikum\nogometna akademija\nogometna akademija.DB\obj\Debug\net6.0\nogometna akademija.DB.AssemblyInfo.cs
+C:\Users\Inženjer\Desktop\praktikum\nogometna akademija\nogometna akademija.DB\obj\Debug\net6.0\nogometna akademija.DB.csproj.CoreCompileInputs.cache

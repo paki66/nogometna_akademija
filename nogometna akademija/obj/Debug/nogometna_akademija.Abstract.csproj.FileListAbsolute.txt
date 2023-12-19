@@ -1,0 +1,5 @@
+C:\Users\Inženjer\Desktop\praktikum\nogometna akademija\nogometna akademija\obj\Debug\nogometna_akademija.Abstract.csproj.AssemblyReference.cache
+C:\Users\Inženjer\Desktop\praktikum\nogometna akademija\nogometna akademija\obj\Debug\nogometna_akademija.Abstract.Models.Form1.resources
+C:\Users\Inženjer\Desktop\praktikum\nogometna akademija\nogometna akademija\obj\Debug\nogometna_akademija.Abstract.Properties.Resources.resources
+C:\Users\Inženjer\Desktop\praktikum\nogometna akademija\nogometna akademija\obj\Debug\nogometna_akademija.Abstract.csproj.GenerateResource.cache
+C:\Users\Inženjer\Desktop\praktikum\nogometna akademija\nogometna akademija\obj\Debug\nogometna_akademija.Abstract.csproj.CoreCompileInputs.cache

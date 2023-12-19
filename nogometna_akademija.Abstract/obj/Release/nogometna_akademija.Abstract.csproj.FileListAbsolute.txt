@@ -1,0 +1,7 @@
+C:\Users\Inženjer\Desktop\praktikum\nogometna akademija\nogometna_akademija.Abstract\bin\Release\nogometna_akademija.Abstract.dll.config
+C:\Users\Inženjer\Desktop\praktikum\nogometna akademija\nogometna_akademija.Abstract\bin\Release\nogometna_akademija.Abstract.dll
+C:\Users\Inženjer\Desktop\praktikum\nogometna akademija\nogometna_akademija.Abstract\bin\Release\nogometna_akademija.Abstract.pdb
+C:\Users\Inženjer\Desktop\praktikum\nogometna akademija\nogometna_akademija.Abstract\obj\Release\nogometna_akademija.Abstract.csproj.AssemblyReference.cache
+C:\Users\Inženjer\Desktop\praktikum\nogometna akademija\nogometna_akademija.Abstract\obj\Release\nogometna_akademija.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Inženjer\Desktop\praktikum\nogometna akademija\nogometna_akademija.Abstract\obj\Release\nogometna_akademija.Abstract.dll
+C:\Users\Inženjer\Desktop\praktikum\nogometna akademija\nogometna_akademija.Abstract\obj\Release\nogometna_akademija.Abstract.pdb

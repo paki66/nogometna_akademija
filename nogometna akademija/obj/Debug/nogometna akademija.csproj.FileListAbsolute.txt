@@ -1,0 +1,10 @@
+C:\Users\Inženjer\Desktop\nogometna akademija\nogometna akademija\bin\Debug\nogometna akademija.exe.config
+C:\Users\Inženjer\Desktop\nogometna akademija\nogometna akademija\bin\Debug\nogometna akademija.exe
+C:\Users\Inženjer\Desktop\nogometna akademija\nogometna akademija\bin\Debug\nogometna akademija.pdb
+C:\Users\Inženjer\Desktop\nogometna akademija\nogometna akademija\obj\Debug\nogometna akademija.csproj.AssemblyReference.cache
+C:\Users\Inženjer\Desktop\nogometna akademija\nogometna akademija\obj\Debug\nogometna_akademija.Form1.resources
+C:\Users\Inženjer\Desktop\nogometna akademija\nogometna akademija\obj\Debug\nogometna_akademija.Properties.Resources.resources
+C:\Users\Inženjer\Desktop\nogometna akademija\nogometna akademija\obj\Debug\nogometna akademija.csproj.GenerateResource.cache
+C:\Users\Inženjer\Desktop\nogometna akademija\nogometna akademija\obj\Debug\nogometna akademija.csproj.CoreCompileInputs.cache
+C:\Users\Inženjer\Desktop\nogometna akademija\nogometna akademija\obj\Debug\nogometna akademija.exe
+C:\Users\Inženjer\Desktop\nogometna akademija\nogometna akademija\obj\Debug\nogometna akademija.pdb
